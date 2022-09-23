@@ -27,10 +27,10 @@
 
 
 
-Ссылки на документ внутри папки и на web-страницу[инструкции](https://habr.com/ru/company/piter/blog/276675).
+Ссылки на документ внутри папки и на web-страницу [инструкции] (https://habr.com/ru/company/piter/blog/276675).
 
 
-Ссылки на документ внутри папки и на web-страницу[инструкции](https://habr.com/ru/company/piter/blog/276675](https://github.com/github/codeql/blob/b212af08a6cffbb434f3c8a2795a579e092792fd/README.md).
+Ссылки на документ внутри папки и на web-страницу [инструкции] (https://github.com/github/codeql/blob/b212af08a6cffbb434f3c8a2795a579e092792fd/README.md).
 
 
 
